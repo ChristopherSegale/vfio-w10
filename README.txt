@@ -1,0 +1,1 @@
+This is a script that I wrote in order to create a Windows 10 VM which passes through a video card, USB controllers, and onboard audio.  Doing this enables the VM to run programs which require hardware accelerated graphics on a system with only one graphics card and no graphics module in its CPU.
